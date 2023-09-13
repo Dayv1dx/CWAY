@@ -108,13 +108,15 @@ Existem duas funções na camada de rede:
 
 O protocolo IP fornece um modo de endereçamento globalmente unificado que protege as diferenças de endereço de rede física e torna possível a pesquisa de rotas. Também fornece um formato de pacotes globalmente unificado que protege as diferenças na camada de enlace de rede e torna  possível a comunicação entre redes.
 
-Protocolo normalmente usado na Camada de Redes:
+Protocolo normalmente usado na Camada de Rede:
 
-- Internet Protocol (IP)
-- Internet Control Message Protocol (ICMP)
+- Internet Protocol (IP);
+- Internet Control Message Protocol (ICMP);
+- Address Resolution Protocol (ARP);
+- Reverse Address Resolution Protocol (RARP).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjU5NzE2MCwxMDI2ODI5NDkwLC0xNT
+eyJoaXN0b3J5IjpbLTY0MDM2NTkwMCwxMDI2ODI5NDkwLC0xNT
 U2MzUzMTQ4LDEyMjEzNzU0MTUsLTUxNDE3NDM1Niw5OTAwMDE3
 NTksNDU3NDgzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02ND
 I3OTc0MDcsLTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4
