@@ -25,9 +25,11 @@ usado para roteamento, controle de erros e controle de fluxo. A duração e o in
 
 	- _Simplex:_ Nesse modo a comunicação é unidirecional, apenas um dos dispositivos pode enviar pacotes. Teclados e displays são exemplos desse tipo de comunicação, pois o teclado apenas pode ser usado para _input_ e um monitor apenas para _output_.
 
-	- _Half-duplex:_ Nesse modo a comunicação é bidirecional, ambos dispositivos podem mandar pacotes, porém não ao mesmo tempo.
+	- _Half-duplex:_ Nesse modo a comunicação é bidirecional, ambos dispositivos podem mandar pacotes, porém não ao mesmo tempo. O _walkie-talkie_ é um exemplo típico desse sistema.
+	
+	- _Full-duplex:_ Nesse modo a comunicação, ambos dispositivos podem mandar e re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5ODQwMzIwLDEyMTY5NDgxOCwtMTM4MD
-A4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAz
-MDBdfQ==
+eyJoaXN0b3J5IjpbNjYzMTM5MTcsMTIxNjk0ODE4LC0xMzgwMD
+gzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMw
+MF19
 -->
