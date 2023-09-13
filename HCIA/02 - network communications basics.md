@@ -16,9 +16,11 @@ Uma comunicação de dados completa deve ser composta por cinco partes?
 
 - **Protocolo:** É o conjunto de regras que governam a comunicação de dados, isso representa um conjunto de convenções entre os dispositivos de comunicação. Sem protocolo, mesmo que dois dispositivos estiverem conectados fisicamente, eles não podem se comunicar.
 
+## **Características da Comunicação de Dados**
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MDA1ODU3LC0yMDAyNDA3NDgxLC0xOD
-MwNjExMTI4LDQ1OTQwMDMwMF19
+eyJoaXN0b3J5IjpbLTM2NzMzMzY5MSwtMjAwMjQwNzQ4MSwtMT
+gzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
 -->
