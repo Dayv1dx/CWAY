@@ -56,10 +56,9 @@ Além de ter as seguintes vantagens:
 - As redes em diferentes áreas são
 separados. Portanto, a rede em cada área pode ser atualizada rapidamente;
 
-- Decompõe problemas complexos de rede em pequenos problemas simples, que são
-fácil de aprender e operar;
+- Decompõe problemas complexos de rede em pequenos problemas simples, que são fácil de aprender e operar;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTI5MTczMywxODExODIwNTYxLDEyMT
-Y5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYx
-MTEyOCw0NTk0MDAzMDBdfQ==
+eyJoaXN0b3J5IjpbLTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNj
+k0ODE4LC0xMzgwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjEx
+MTI4LDQ1OTQwMDMwMF19
 -->
