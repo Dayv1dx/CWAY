@@ -29,9 +29,11 @@ usado para roteamento, controle de erros e controle de fluxo. A duração e o in
 	
 	- _Full-duplex:_ Nesse modo a comunicação, ambos dispositivos podem mandar e receber dados de forma simultânea. A Rede telefônica é um exemplo.
 
-## **Visão Geral da Comunicação de Dados**
+## **Protocolo TCP/IP**
+
+1. **Estrutura 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTk3MzM4MiwxMjE2OTQ4MTgsLTEzOD
-AwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTExMjgsNDU5NDAw
-MzAwXX0=
+eyJoaXN0b3J5IjpbODE0NzkxNzQsMTIxNjk0ODE4LC0xMzgwMD
+gzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMw
+MF19
 -->
