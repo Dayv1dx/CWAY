@@ -22,10 +22,11 @@ A comutação de pacotes sem conexão usa a comutação de pacotes para encapsul
 usado para roteamento, controle de erros e controle de fluxo. A duração e o intervalo de cada pacote pode ser alterado. Portanto, a comutação de pacotes suporta múltiplas taxas. Nesse tipo de comutação os pacotes ocupam recursos da rede somente quando eles são transmitidos. Os recursos de rede podem ser compartilhados por serviços.
 
 - **Modos de transmissão:**
-	- _simplex:_ Nesse modo
+
+	- _simplex:_ Nesse modo a comunicação é unidirecional, apenas um dos dispositivos pode enviar pacotes. Teclados e displays são exemplos de
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEwMTExMjMsMTIxNjk0ODE4LC0xMz
+eyJoaXN0b3J5IjpbLTEzOTk2NTM0NTksMTIxNjk0ODE4LC0xMz
 gwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQw
 MDMwMF19
 -->
