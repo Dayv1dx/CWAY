@@ -87,9 +87,9 @@ Especifica o tipo da mídia, tipo da interface e o tipo de sinalização.
 
 A camada de dados se subdivide em duas:
 - _MAC Sub-Layer:_ Media Acess Control Sub-Layer
-- 
+- _LLC Sub-Layer: Logic Link Control Sub-Layer_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzQ3ODE5Niw5OTAwMDE3NTksNDU3ND
+eyJoaXN0b3J5IjpbLTUxNDE3NDM1Niw5OTAwMDE3NTksNDU3ND
 gzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02NDI3OTc0MDcs
 LTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMD
 gzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMw
