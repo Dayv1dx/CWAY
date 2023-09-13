@@ -72,8 +72,10 @@ transmitido para a camada de rede, e o PDU obtido após a camada de rede
 adiciona o _header_ IP é chamado de pacote. O pacote de dados é transmitido para os dados camada de enlace e a PDU obtida após a camada de enlace de dados encapsular os dados cabeçalho é chamado de _frame_, os _frames_ são convertidos em bits e transmitidos
 mídia de rede. Este processo de passar dados pela pilha e adicionar cabeçalhos
 e trailers é chamado de **encapsulamento**.
+
+Depois dos dados serem encapsulados e transmitidos pela rede, o dispositivo receptor delete as informações adicionadas (_headers_) e determina como fazer o upload dos dados para as devidas camadas de aplicação
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTQxNzg2LDQ1NzQ4Mzg4NCwtNjk2Nz
+eyJoaXN0b3J5IjpbNjkzNjk5MjUyLDQ1NzQ4Mzg4NCwtNjk2Nz
 MxMDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2Nywx
 ODExODIwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMj
 QwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
