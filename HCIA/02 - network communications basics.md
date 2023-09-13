@@ -92,10 +92,12 @@ A camada de dados se subdivide em duas:
 
 A primeira sub-camada fica localizada entre a camada de rede e a MAC. Ela identifica o tipo de protocolo e encapsulamento dos dados para a transmissão ao longo da rede. Já a sub-camada MAC especifica como os dados são trasmitidos na camada física . Ela define o endereçamento físico, o tipo da rede, a notificação de erro, dentre outros.
 
-- **Endereço da camada de dados e protocolos:** O endereço MAC tem 48 bits e os três primeiros bytes do produtos Huawei
+- **Endereço da camada de dados e protocolos:** O endereço MAC tem 48 bits e os três primeiros bytes do produtos Huawei são 0x00E0FC. Os protocolos LAN e WAN estão nessa camada.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjQ3ODkyNSwtNTE0MTc0MzU2LDk5MD
+eyJoaXN0b3J5IjpbLTE2OTc4NTMyMSwtNTE0MTc0MzU2LDk5MD
 AwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5ODgs
 LTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMjE2OT
 Q4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTEx
