@@ -136,13 +136,16 @@ você a usar e gerenciar a rede TCP/IP:
 - TFTP (Trivial File Transfer Protocol): Design de transferência de arquivos para uso geral, alto rendimento.
 - RIP (Routing Information Protocol): Um protocolo usado por um roteador para trocar informações de roteamento em uma rede IP.
 
-- SNMP (Simple Network Management Protocol):
+- SNMP (Simple Network Management Protocol): Coleta rede gerenciamento de informações e trocas de gerenciamento de rede
+informações entre o console de gerenciamento de rede e a rede dispositivos (como roteadores, pontes e servidores).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODU4OTgxNywxNzE4ODIxMTA5LDE3MT
-gyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgwMjYxLDEwMjY4Mjk0
-OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0MzU2LD
-k5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5
-ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMj
-E2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2
-MTExMjhdfQ==
+eyJoaXN0b3J5IjpbLTIxNDIyNTgxMDEsMTcxODgyMTEwOSwxNz
+E4MjQzMTc0LDIxMzE2NzU5MTIsLTIzMjc4MDI2MSwxMDI2ODI5
+NDkwLC0xNTU2MzUzMTQ4LDEyMjEzNzU0MTUsLTUxNDE3NDM1Ni
+w5OTAwMDE3NTksNDU3NDgzODg0LC02OTY3MzEwNzQsMTQwMjI5
+OTg4LC02NDI3OTc0MDcsLTI1ODE3MTY3LDE4MTE4MjA1NjEsMT
+IxNjk0ODE4LC0xMzgwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMw
+NjExMTI4XX0=
 -->
