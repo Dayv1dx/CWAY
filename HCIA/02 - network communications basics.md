@@ -14,11 +14,11 @@ Uma comunicação de dados completa deve ser composta por cinco partes?
 
 - **Meio:** Se refere ao meio para o sinal de transmissão. Meios de transmissão comuns em LANs incluem fibras ópticas, cabos coaxiais e pares trançados.
 
-- **Protocolo:** É o conjunto de regras que governam a comunicação de dados, isso representa um conjunto de convenções entre os dispositivos de comn.
+- **Protocolo:** É o conjunto de regras que governam a comunicação de dados, isso representa um conjunto de convenções entre os dispositivos de comunicação. Sem protocolo, mesmo que dois dispositivos estiverem conectados fisicamente, eles não podem se comunicar.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTI2OTA1LC0yMDAyNDA3NDgxLC0xOD
+eyJoaXN0b3J5IjpbNDk1MDA1ODU3LC0yMDAyNDA3NDgxLC0xOD
 MwNjExMTI4LDQ1OTQwMDMwMF19
 -->
