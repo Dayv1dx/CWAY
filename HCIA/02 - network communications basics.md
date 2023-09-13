@@ -90,9 +90,9 @@ A camada de dados se subdivide em duas:
 - _LLC Sub-Layer:_ Logic Link Control Sub-Layer
 - _MAC Sub-Layer:_ Media Acess Control Sub-Layer
 
-A primeira sub-camada fica localizada entre a camada de rede e a MAC. Ela identifica o tipo de protocolo e encapsulamento dos dados para a transmissão ao longo da rede. Já a sub-camada MAC
+A primeira sub-camada fica localizada entre a camada de rede e a MAC. Ela identifica o tipo de protocolo e encapsulamento dos dados para a transmissão ao longo da rede. Já a sub-camada MAC. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODc0NzAwNywtNTE0MTc0MzU2LDk5MD
+eyJoaXN0b3J5IjpbLTM3NzU4MDQ2NywtNTE0MTc0MzU2LDk5MD
 AwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5ODgs
 LTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMjE2OT
 Q4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTEx
