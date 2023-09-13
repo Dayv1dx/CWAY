@@ -73,10 +73,10 @@ adiciona o _header_ IP é chamado de pacote. O pacote de dados é transmitido pa
 mídia de rede. Este processo de passar dados pela pilha e adicionar cabeçalhos
 e trailers é chamado de **encapsulamento**.
 
-Depois dos dados serem encapsulados e transmitidos pela rede, o dispositivo receptor apaga as informações adicionadas (_headers_) e determina como fazer o upload dos dados para as devidas camadas de aplicação pela pilha de protocolo baseado na informações dos _headers_. Esse processo é chamadao de **desencapsulamento**
+Depois dos dados serem encapsulados e transmitidos pela rede, o dispositivo receptor apaga as informações adicionadas (_headers_) e determina como fazer o upload dos dados para as devidas camadas de aplicação pela pilha de protocolo baseado na informações dos _headers_. Esse processo é chamadao de **desencapsulamento**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU5NTA5NTgsNDU3NDgzODg0LC02OT
-Y3MzEwNzQsMTQwMjI5OTg4LC02NDI3OTc0MDcsLTI1ODE3MTY3
-LDE4MTE4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMDgzMzc2LC0yMD
-AyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMwMF19
+eyJoaXN0b3J5IjpbLTQzODkxMzUxNiw0NTc0ODM4ODQsLTY5Nj
+czMTA3NCwxNDAyMjk5ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcs
+MTgxMTgyMDU2MSwxMjE2OTQ4MTgsLTEzODAwODMzNzYsLTIwMD
+I0MDc0ODEsLTE4MzA2MTExMjgsNDU5NDAwMzAwXX0=
 -->
