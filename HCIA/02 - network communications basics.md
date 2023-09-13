@@ -106,14 +106,14 @@ Existem duas funções na camada de rede:
 
 ### **Protocolo de Camada de Rede**
 
-O protocolo IP fornece um modo de endereçamento globalmente unificado que protege as diferenças de endereço de rede física e e torna possível a pesquisa de rotas. Também fornece um formato de pacotes globalmente unificado que protege as diferenças 
+O protocolo IP fornece um modo de endereçamento globalmente unificado que protege as diferenças de endereço de rede física e torna possível a pesquisa de rotas. Também fornece um formato de pacotes globalmente unificado que protege as diferenças na camada de enlace de rede e torna  possível a comunicação entre redes.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMDQ0NjgwLDEwMjY4Mjk0OTAsLTE1NT
-YzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0MzU2LDk5MDAwMTc1
-OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5ODgsLTY0Mj
-c5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMjE2OTQ4MTgs
-LTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTExMjgsND
-U5NDAwMzAwXX0=
+eyJoaXN0b3J5IjpbLTM2OTIyMDAxNywxMDI2ODI5NDkwLC0xNT
+U2MzUzMTQ4LDEyMjEzNzU0MTUsLTUxNDE3NDM1Niw5OTAwMDE3
+NTksNDU3NDgzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02ND
+I3OTc0MDcsLTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4
+LC0xMzgwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LD
+Q1OTQwMDMwMF19
 -->
