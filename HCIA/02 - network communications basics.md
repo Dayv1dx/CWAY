@@ -111,7 +111,7 @@ O protocolo IP fornece um modo de endereçamento globalmente unificado que prote
 Protocolo normalmente usado na Camada de Rede:
 
 - **Internet Protocol (IP):** É o protocolo mais importante na camada de rede. Ele fornece lógica funções de  endereçamento, roteamento e encapsulamento e desencapsulamento de pacotes. ICMP, ARP e RARP ajudam IP.
-- 
+
 - **Internet Control Message Protocol (ICMP):** É um protocolo de gerenciamento e fornece informações de serviço para IP. As mensagens ICMP são transportadas em pacotes IP.
 
 - **Address Resolution Protocol (ARP):**  Implementa as dinâmicas de mapeamento entre os endereços IP e os endereços de hardware, ou seja, os endereços de hardware são obtidos baseado em um endereço IP conhecido.
@@ -120,10 +120,10 @@ Protocolo normalmente usado na Camada de Rede:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjc4MDI2MSwxMDI2ODI5NDkwLC0xNT
-U2MzUzMTQ4LDEyMjEzNzU0MTUsLTUxNDE3NDM1Niw5OTAwMDE3
-NTksNDU3NDgzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02ND
-I3OTc0MDcsLTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4
-LC0xMzgwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LD
-Q1OTQwMDMwMF19
+eyJoaXN0b3J5IjpbMjEzMTY3NTkxMiwtMjMyNzgwMjYxLDEwMj
+Y4Mjk0OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0
+MzU2LDk5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxND
+AyMjk5ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2
+MSwxMjE2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLT
+E4MzA2MTExMjgsNDU5NDAwMzAwXX0=
 -->
