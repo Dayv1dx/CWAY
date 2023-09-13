@@ -31,9 +31,11 @@ usado para roteamento, controle de erros e controle de fluxo. A duração e o in
 
 ## **Protocolo TCP/IP**
 
-1. **Estrutura 
+1. **Estrutura do modelo TCP/IP:**
+
+![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20230417045622/OSI-vs-TCP-vs-Hybrid-2.webp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NzkxNzQsMTIxNjk0ODE4LC0xMzgwMD
-gzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMw
-MF19
+eyJoaXN0b3J5IjpbMTgxMTgyMDU2MSwxMjE2OTQ4MTgsLTEzOD
+AwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTExMjgsNDU5NDAw
+MzAwXX0=
 -->
