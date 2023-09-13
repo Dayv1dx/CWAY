@@ -131,9 +131,10 @@ você a usar e gerenciar a rede TCP/IP:
 
 - SMTP (Simple Message Transfer Protocol) & POP3(Post Office Protocol).
 
+- DNS (Domain Name Server): Nomes de domínio podem ser convertidos em endereços IP e recursos de nomes de domínio podem ser gerenciados de forma distribuída maneiras.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODAyNjEwMiwxNzE4ODIxMTA5LDE3MT
+eyJoaXN0b3J5IjpbMTMzNjM4MzcwNiwxNzE4ODIxMTA5LDE3MT
 gyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgwMjYxLDEwMjY4Mjk0
 OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0MzU2LD
 k5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5
