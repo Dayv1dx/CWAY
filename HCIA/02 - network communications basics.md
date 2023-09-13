@@ -129,9 +129,11 @@ você a usar e gerenciar a rede TCP/IP:
 
 - TELNET : Transfere dados com informações de controle Telnet. Ele fornece um método padrão para interagir com dispositivos  terminais ou processos terminais, e suporta conexões terminal a terminal e processo a processo computação distribuída.
 
+- SMTP (Simple Message Transfer Protocol) & POP3(Post Office Protocol).
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjkyNDcwOSwxNzE4ODIxMTA5LDE3MT
+eyJoaXN0b3J5IjpbMTU3ODAyNjEwMiwxNzE4ODIxMTA5LDE3MT
 gyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgwMjYxLDEwMjY4Mjk0
 OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0MzU2LD
 k5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5
