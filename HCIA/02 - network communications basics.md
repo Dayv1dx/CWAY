@@ -35,12 +35,9 @@ usado para roteamento, controle de erros e controle de fluxo. A duração e o in
 
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20230417045622/OSI-vs-TCP-vs-Hybrid-2.webp)
 
-Em 1984, a Organização Internacional de Normalização (ISO) apresentou o
-Modelo de referência de interconexão de sistema aberto (OSI RM) para resolver o
-problema de compatibilidade entre redes e ajudar os fornecedores a produzir
-dispositivos de rede. O modelo de referência OSI está rapidamente se tornando o modelo básico de comunicação em rede de computadores. Ao projetar o modelo de referência OSI, o os seguintes princípios são seguidos: cada camada tem um limite claro para implementar funções específicas; A divisão de camadas é benéfica para o estabelecimento de protocolos de padrão internacional. O número de camadas deve ser grande o suficiente para evite a duplicação de funções entre camadas.
+Em 1984, a Organização Internacional de Normalização (_International Organization for Standardization_ - ISO) apresentou o Modelo de referência de interconexão de sistema aberto (_Open System Interconnection Reference Model_ ) para resolver o problema de compatibilidade entre redes e ajudar os fornecedores a produzir dispositivos de rede. O modelo de referência OSI está rapidamente se tornando o modelo básico de comunicação em rede de computadores. Ao projetar o modelo de referência OSI, o os seguintes princípios são seguidos: cada camada tem um limite claro para implementar funções específicas; A divisão de camadas é benéfica para o estabelecimento de protocolos de padrão internacional. O número de camadas deve ser grande o suficiente para evite a duplicação de funções entre camadas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMyNjEzMzIsMTgxMTgyMDU2MSwxMj
+eyJoaXN0b3J5IjpbLTE0ODk0NTIxMzUsMTgxMTgyMDU2MSwxMj
 E2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2
 MTExMjgsNDU5NDAwMzAwXX0=
 -->
