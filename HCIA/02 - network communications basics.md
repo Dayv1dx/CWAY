@@ -134,8 +134,11 @@ você a usar e gerenciar a rede TCP/IP:
 - DNS (Domain Name Server): Nomes de domínio podem ser convertidos em endereços IP e recursos de nomes de domínio podem ser gerenciados de forma distribuída maneiras.
 
 - TFTP (Trivial File Transfer Protocol): Design de transferência de arquivos para uso geral, alto rendimento.
+- RIP (Routing Information Protocol): Um protocolo usado por um roteador para trocar informações de roteamento em uma rede IP.
+
+- SNMP (Simple Network Management Protocol):
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjE1ODM0OSwxNzE4ODIxMTA5LDE3MT
+eyJoaXN0b3J5IjpbMTYyODU4OTgxNywxNzE4ODIxMTA5LDE3MT
 gyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgwMjYxLDEwMjY4Mjk0
 OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0MzU2LD
 k5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5
