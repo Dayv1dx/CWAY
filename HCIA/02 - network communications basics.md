@@ -95,13 +95,13 @@ A primeira sub-camada fica localizada entre a camada de rede e a MAC. Ela identi
 - **Endereço da camada de dados e protocolos:** O endereço MAC tem 48 bits e os três primeiros bytes do produtos Huawei são 0x00E0FC. Os protocolos LAN e WAN estão nessa camada.
 
 ### **Dispositivos e Funções da Camada de Rede:**
-A função dessa camada é encaminhar os pacotes entre as diferentes redes
+A função dessa camada é encaminhar os pacotes entre as diferentes redes, desde a fonte até o destino final.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTM3NTQxNSwtNTE0MTc0MzU2LDk5MD
-AwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5ODgs
-LTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMjE2OT
-Q4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTEx
-MjgsNDU5NDAwMzAwXX0=
+eyJoaXN0b3J5IjpbLTcxMzQ0NzM1OCwxMjIxMzc1NDE1LC01MT
+QxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMxMDc0
+LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxODExOD
+IwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMjQwNzQ4
+MSwtMTgzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
 -->
