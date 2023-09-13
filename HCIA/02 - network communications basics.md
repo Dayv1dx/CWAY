@@ -6,12 +6,14 @@ De acordo com o protocolo de comunicação, o dado é transferido entre uma unid
 
 Uma comunicação de dados completa deve ser composta por cinco partes?
 
-- **Mensagem:** Um pacote é um bloco de dados em comunicação. Informações como textos, números, imagens, audio e vídeos
+- **Mensagem:** Um pacote é um bloco de dados em comunicação. Informações como textos, números, imagens, audio e vídeos são codificados e transmitidos em pacotes.
+
+- **Remetente:** É o disposi
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM5NDk3NTIsLTIwMDI0MDc0ODEsLT
-E4MzA2MTExMjgsNDU5NDAwMzAwXX0=
+eyJoaXN0b3J5IjpbMTk5Njk1OTU4MSwtMjAwMjQwNzQ4MSwtMT
+gzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
 -->
