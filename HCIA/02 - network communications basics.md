@@ -27,9 +27,11 @@ usado para roteamento, controle de erros e controle de fluxo. A duração e o in
 
 	- _Half-duplex:_ Nesse modo a comunicação é bidirecional, ambos dispositivos podem mandar pacotes, porém não ao mesmo tempo. O _walkie-talkie_ é um exemplo típico desse sistema.
 	
-	- _Full-duplex:_ Nesse modo a comunicação, ambos dispositivos podem mandar e receber dados de forma simultânea. A Rede telefônica é um exemplo. 
+	- _Full-duplex:_ Nesse modo a comunicação, ambos dispositivos podem mandar e receber dados de forma simultânea. A Rede telefônica é um exemplo.
+
+## **Visão Geral da Comunicação de Dados**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjkwMDgyLDEyMTY5NDgxOCwtMTM4MD
-A4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAz
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTc1NTk3MzM4MiwxMjE2OTQ4MTgsLTEzOD
+AwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTExMjgsNDU5NDAw
+MzAwXX0=
 -->
