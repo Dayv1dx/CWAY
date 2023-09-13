@@ -23,11 +23,11 @@ usado para roteamento, controle de erros e controle de fluxo. A duração e o in
 
 - **Modos de transmissão:**
 
-	- _simplex:_ Nesse modo a comunicação é unidirecional, apenas um dos dispositivos pode enviar pacotes. Teclados e displays são exemplos desse tipo de comunicação, pois o teclado apenas pode ser usado para _input_ e um monitor apenas para _output_.
+	- _Simplex:_ Nesse modo a comunicação é unidirecional, apenas um dos dispositivos pode enviar pacotes. Teclados e displays são exemplos desse tipo de comunicação, pois o teclado apenas pode ser usado para _input_ e um monitor apenas para _output_.
 
-	- _Hasimplex:_ Nesse modo a comunicação é unidirecional,
+	- _Half-duplex:_ Nesse modo a comunicação é bidirecional, ambos dispositivos podem mandar pacotes, porém não ao mesmo tempo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODczNzc5NjIsMTIxNjk0ODE4LC0xMz
-gwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQw
-MDMwMF19
+eyJoaXN0b3J5IjpbODM5ODQwMzIwLDEyMTY5NDgxOCwtMTM4MD
+A4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAz
+MDBdfQ==
 -->
