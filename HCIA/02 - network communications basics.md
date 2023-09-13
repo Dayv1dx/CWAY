@@ -12,10 +12,12 @@ Uma comunicação de dados completa deve ser composta por cinco partes?
 
 -**Receptor:**  É o dispositivo que recebe os pacotes, pode ser um computador, celular, servidor, etc.
 
+-**Meio:** Se refere ao meio para o sinal de transmissão. Os meios mais comuns s
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIyNDAxMjcsLTIwMDI0MDc0ODEsLT
-E4MzA2MTExMjgsNDU5NDAwMzAwXX0=
+eyJoaXN0b3J5IjpbMTk3MzUxMTQ3NSwtMjAwMjQwNzQ4MSwtMT
+gzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
 -->
