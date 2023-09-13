@@ -8,12 +8,13 @@ Uma comunicação de dados completa deve ser composta por cinco partes?
 
 - **Mensagem:** Um pacote é um bloco de dados em comunicação. Informações como textos, números, imagens, audio e vídeos são codificados e transmitidos em pacotes.
 
-- **Remetente:** É o disposi
+- **Remetente:** É o dispositivo que manda os pacotes, pode ser um computador, celular, servidor, etc.
+-**
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Njk1OTU4MSwtMjAwMjQwNzQ4MSwtMT
+eyJoaXN0b3J5IjpbLTc5NDE1NDczOSwtMjAwMjQwNzQ4MSwtMT
 gzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
 -->
