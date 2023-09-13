@@ -63,8 +63,13 @@ A pilha de protocolos TCP/IP é uma coleção de protocolos de comunicação de 
 TCP (Protocolo de Controle de Transmissão) e IP (Protocolo de Internet). O TCP/IP pilha de protocolos garante que os dispositivos de rede possam se comunicar entre si. Isto é um conjunto de regras que regem como as informações são transmitidas pela rede.
 
 2. **Encapsulamento e desencapsulamento de dados no modelo TCP/IP:**
+
+![enter image description here](https://embeddedgeeks.com/wp-content/uploads/2020/06/encap-1.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjI5OTg4LC02NDI3OTc0MDcsLTI1OD
-E3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMDgzMzc2
-LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMwMF19
+eyJoaXN0b3J5IjpbLTY5NjczMTA3NCwxNDAyMjk5ODgsLTY0Mj
+c5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMjE2OTQ4MTgs
+LTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTExMjgsND
+U5NDAwMzAwXX0=
 -->
