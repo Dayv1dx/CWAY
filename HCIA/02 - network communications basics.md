@@ -121,11 +121,15 @@ Protocolo normalmente usado na Camada de Rede:
 ### Funções da Camada de Aplicação
 
 Existem muitos protocolos na camada de aplicação. Os seguintes protocolos ajudam
-você usa e gerencia a rede TCP/IP:
+você a usar e gerenciar a rede TCP/IP:
+
+- FTP (File Transfer Protocol): Usado para transferir arquivos independentes, geralmente para sessões de usuário interativas.
+
+- HTTP (Hypertext Transfer Protocol):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDE2MzQwNSwxNzE4MjQzMTc0LDIxMz
+eyJoaXN0b3J5IjpbMTcxODgyMTEwOSwxNzE4MjQzMTc0LDIxMz
 E2NzU5MTIsLTIzMjc4MDI2MSwxMDI2ODI5NDkwLC0xNTU2MzUz
 MTQ4LDEyMjEzNzU0MTUsLTUxNDE3NDM1Niw5OTAwMDE3NTksND
 U3NDgzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02NDI3OTc0
