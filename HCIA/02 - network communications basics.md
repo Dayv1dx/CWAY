@@ -106,11 +106,11 @@ Existem duas funções na camada de rede:
 
 ### **Protocolo de Camada de Rede**
 
-O protocolo IP fornece a 
+O protocolo IP fornece um modo de endereçamento unificado globalmente
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODgwOTk1NCwxMDI2ODI5NDkwLC0xNT
+eyJoaXN0b3J5IjpbMTAxOTE3ODkwNywxMDI2ODI5NDkwLC0xNT
 U2MzUzMTQ4LDEyMjEzNzU0MTUsLTUxNDE3NDM1Niw5OTAwMDE3
 NTksNDU3NDgzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02ND
 I3OTc0MDcsLTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4
