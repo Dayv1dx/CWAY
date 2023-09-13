@@ -76,11 +76,13 @@ e trailers é chamado de **encapsulamento**.
 Depois dos dados serem encapsulados e transmitidos pela rede, o dispositivo receptor apaga as informações adicionadas (_headers_) e determina como fazer o upload dos dados para as devidas camadas de aplicação pela pilha de protocolo baseado na informações dos _headers_. Esse processo é chamadao de **desencapsulamento**. As camadas dos dispositivos se comunicam entre si por meio de encapsulamento e desencapsulamento.
 
 - **A função da Camada Física:**
-A camada física define os processos elétricos e mecânicos e as funções para ativar, mantere e remover linhas quando dois sistemas estão conectados. Ela define os seguintes 
+A camada física define os processos elétricos e mecânicos e as funções para ativar, mantere e remover linhas quando dois sistemas estão conectados. Ela define os seguintes recursos:
+
+	- Voltage Level:  Distância máxima de transmissão, mod
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDI0NTE2Myw5OTAwMDE3NTksNDU3ND
-gzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02NDI3OTc0MDcs
-LTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMD
-gzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMw
-MF19
+eyJoaXN0b3J5IjpbLTE1Mzk4MjM0ODMsOTkwMDAxNzU5LDQ1Nz
+Q4Mzg4NCwtNjk2NzMxMDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3
+LC0yNTgxNzE2NywxODExODIwNTYxLDEyMTY5NDgxOCwtMTM4MD
+A4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAz
+MDBdfQ==
 -->
