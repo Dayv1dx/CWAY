@@ -86,12 +86,15 @@ Especifica o tipo da mídia, tipo da interface e o tipo de sinalização.
 É a primeira camada lógica dentro da Camada de Dados, ela executa o endereçamento físico no terminal para ajudar a rede de dispositivos a determinar se deve transferir a mensagem para cima ao longo da pilha de protocolos.
 
 A camada de dados se subdivide em duas:
+
+- _LLC Sub-Layer:_ Logic Link Control Sub-Layer
 - _MAC Sub-Layer:_ Media Acess Control Sub-Layer
-- _LLC Sub-Layer: Logic Link Control Sub-Layer_
+
+A primeira sub-camada fica localizada entre a camada de rede e a MAC. Ela identifica o ti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDE3NDM1Niw5OTAwMDE3NTksNDU3ND
-gzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02NDI3OTc0MDcs
-LTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMD
-gzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMw
-MF19
+eyJoaXN0b3J5IjpbMTIzNTQ1MzY5NywtNTE0MTc0MzU2LDk5MD
+AwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5ODgs
+LTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMjE2OT
+Q4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTEx
+MjgsNDU5NDAwMzAwXX0=
 -->
