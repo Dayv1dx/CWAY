@@ -57,8 +57,12 @@ Além de ter as seguintes vantagens:
 separados. Portanto, a rede em cada área pode ser atualizada rapidamente;
 
 - Decompõe problemas complexos de rede em pequenos problemas simples, que são fácil de aprender e operar;
+
+Diferentes camadas do modelo TCP/IP correspondem a protocolos diferentes. O
+A pilha de protocolos TCP/IP é uma coleção de protocolos de comunicação de dados, incluindo muitos protocolos. O nome da pilha de protocolos deriva dos dois protocolos principais,
+TCP (Protocolo de Controle de Transmissão) e IP (Protocolo de Internet). O TCP/IP pilha de protocolos garante que os dispositivos de rede possam se comunicar entre si. Isto é um conjunto de regras que regem como as informações são transmitidas pela rede.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNj
-k0ODE4LC0xMzgwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjEx
-MTI4LDQ1OTQwMDMwMF19
+eyJoaXN0b3J5IjpbLTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMT
+gyMDU2MSwxMjE2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0
+ODEsLTE4MzA2MTExMjgsNDU5NDAwMzAwXX0=
 -->
