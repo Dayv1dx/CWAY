@@ -115,12 +115,12 @@ Protocolo normalmente usado na Camada de Rede:
 - **Internet Control Message Protocol (ICMP):** É um protocolo de gerenciamento e fornece informações de serviço para IP. As mensagens ICMP são transportadas em pacotes IP.
 
 - **Address Resolution Protocol (ARP):**  Implementa as dinâmicas de mapeamento entre os endereços IP e os endereços de hardware, ou seja, os endereços de hardware são obtidos baseado em um endereço IP conhecido.
-- 
-- **Reverse Address Resolution Protocol (RARP):**
+
+- **Reverse Address Resolution Protocol (RARP):** Funciona de forma contrária ao ARP, ou seja, obtém os endereços de IP baseado em um endereço de hardware conhecido.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTM1MDU2MiwxMDI2ODI5NDkwLC0xNT
+eyJoaXN0b3J5IjpbLTIzMjc4MDI2MSwxMDI2ODI5NDkwLC0xNT
 U2MzUzMTQ4LDEyMjEzNzU0MTUsLTUxNDE3NDM1Niw5OTAwMDE3
 NTksNDU3NDgzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02ND
 I3OTc0MDcsLTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4
