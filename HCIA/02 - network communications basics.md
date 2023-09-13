@@ -10,14 +10,14 @@ Uma comunicação de dados completa deve ser composta por cinco partes?
 
 - **Remetente:** É o dispositivo que manda os pacotes, pode ser um computador, celular, servidor, etc.
 
--**Receptor:**  É o dispositivo que recebe os pacotes, pode ser um computador, celular, servidor, etc.
+- **Receptor:**  É o dispositivo que recebe os pacotes, pode ser um computador, celular, servidor, etc.
 
--**Meio:** Se refere ao meio para o sinal de transmissão. Os meios mais comuns s
-
+- **Meio:** Se refere ao meio para o sinal de transmissão. Meios de transmissão comuns em LANs incluem fibras ópticas, cabos coaxiais,
+e torcido
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzUxMTQ3NSwtMjAwMjQwNzQ4MSwtMT
-gzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
+eyJoaXN0b3J5IjpbLTE5NzQ5NDg1NDYsLTIwMDI0MDc0ODEsLT
+E4MzA2MTExMjgsNDU5NDAwMzAwXX0=
 -->
