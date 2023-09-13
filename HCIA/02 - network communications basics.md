@@ -78,9 +78,11 @@ Depois dos dados serem encapsulados e transmitidos pela rede, o dispositivo rece
 - **A função da Camada Física:**
 A camada física define os processos elétricos e mecânicos e as funções para ativar, mantere e remover linhas quando dois sistemas estão conectados. Ela define os seguintes recursos:
 
-	- Voltage Level:  Distância máxima de transmissão, mod
+	- _Voltage Level_:  Distância máxima de transmissão, modo de conexão física e a razão da transmissão de dados.
+
+Especifica o tipo da mídia, tipo da interface e 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk4MjM0ODMsOTkwMDAxNzU5LDQ1Nz
+eyJoaXN0b3J5IjpbLTE2NDUyMjM0NTAsOTkwMDAxNzU5LDQ1Nz
 Q4Mzg4NCwtNjk2NzMxMDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3
 LC0yNTgxNzE2NywxODExODIwNTYxLDEyMTY5NDgxOCwtMTM4MD
 A4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAz
