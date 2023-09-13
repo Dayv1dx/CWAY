@@ -118,12 +118,16 @@ Protocolo normalmente usado na Camada de Rede:
 
 - **Reverse Address Resolution Protocol (RARP):** Funciona de forma contrária ao ARP, ou seja, obtém os endereços de IP baseado em um endereço de hardware conhecido.
 
+### Funções da Camada de Aplicação
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTY3NTkxMiwtMjMyNzgwMjYxLDEwMj
-Y4Mjk0OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0
-MzU2LDk5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxND
-AyMjk5ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2
-MSwxMjE2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLT
-E4MzA2MTExMjgsNDU5NDAwMzAwXX0=
+eyJoaXN0b3J5IjpbMTcxODI0MzE3NCwyMTMxNjc1OTEyLC0yMz
+I3ODAyNjEsMTAyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMjIxMzc1
+NDE1LC01MTQxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNj
+k2NzMxMDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2
+NywxODExODIwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMj
+AwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
 -->
