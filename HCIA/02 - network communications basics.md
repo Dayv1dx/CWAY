@@ -99,15 +99,15 @@ A função dessa camada é encaminhar os pacotes entre as diferentes redes, desd
 
 Existem duas funções na camada de rede:
 
-- Forneçer endereços lógicos: Se os dados forem transmitidos através de redes (link cruzado), endereços lógicos são usados ​​para endereçamento.
+- Forneçer endereços lógicos: Se os dados forem transmitidos através de redes (_cross-link_), endereços lógicos são usados ​​para endereçamento.
 
- - Roteamento: Encaminha pacotes de dados de uma rede para outra rede.
+ - Roteamento: Encaminha pacotes de dados de uma rede para outra rede. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzQ5MDM1NiwxMjIxMzc1NDE1LC01MT
-QxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMxMDc0
-LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxODExOD
-IwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMjQwNzQ4
-MSwtMTgzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
+eyJoaXN0b3J5IjpbNDYyOTkyNTYxLDEyMjEzNzU0MTUsLTUxND
+E3NDM1Niw5OTAwMDE3NTksNDU3NDgzODg0LC02OTY3MzEwNzQs
+MTQwMjI5OTg4LC02NDI3OTc0MDcsLTI1ODE3MTY3LDE4MTE4Mj
+A1NjEsMTIxNjk0ODE4LC0xMzgwMDgzMzc2LC0yMDAyNDA3NDgx
+LC0xODMwNjExMTI4LDQ1OTQwMDMwMF19
 -->
