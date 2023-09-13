@@ -83,6 +83,7 @@ A camada física define os processos elétricos e mecânicos e as funções para
 Especifica o tipo da mídia, tipo da interface e o tipo de sinalização.
 
 ### **A função da camada de dados:**
+
 É a primeira camada lógica dentro da Camada de Dados, ela executa o endereçamento físico no terminal para ajudar a rede de dispositivos a determinar se deve transferir a mensagem para cima ao longo da pilha de protocolos.
 
 A camada de dados se subdivide em duas:
@@ -108,10 +109,10 @@ Existem duas funções na camada de rede:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMj
-IxMzc1NDE1LC01MTQxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4
-NCwtNjk2NzMxMDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNT
-gxNzE2NywxODExODIwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3
-NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAzMDBdfQ
-==
+eyJoaXN0b3J5IjpbLTEyOTg4NDY2MjQsMTAyNjgyOTQ5MCwtMT
+U1NjM1MzE0OCwxMjIxMzc1NDE1LC01MTQxNzQzNTYsOTkwMDAx
+NzU5LDQ1NzQ4Mzg4NCwtNjk2NzMxMDc0LDE0MDIyOTk4OCwtNj
+QyNzk3NDA3LC0yNTgxNzE2NywxODExODIwNTYxLDEyMTY5NDgx
+OCwtMTM4MDA4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOC
+w0NTk0MDAzMDBdfQ==
 -->
