@@ -81,10 +81,13 @@ A camada física define os processos elétricos e mecânicos e as funções para
 	- _Voltage Level_:  Distância máxima de transmissão, modo de conexão física e a razão da transmissão de dados.
 
 Especifica o tipo da mídia, tipo da interface e o tipo de sinalização.
+
+- **A função da camada de dados:**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzM4OTEyNCw5OTAwMDE3NTksNDU3ND
-gzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02NDI3OTc0MDcs
-LTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMD
-gzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMw
-MF19
+eyJoaXN0b3J5IjpbNDczNjUxNDk2LDk5MDAwMTc1OSw0NTc0OD
+M4ODQsLTY5NjczMTA3NCwxNDAyMjk5ODgsLTY0Mjc5NzQwNywt
+MjU4MTcxNjcsMTgxMTgyMDU2MSwxMjE2OTQ4MTgsLTEzODAwOD
+MzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTExMjgsNDU5NDAwMzAw
+XX0=
 -->
