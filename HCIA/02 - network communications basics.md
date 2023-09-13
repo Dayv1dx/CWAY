@@ -19,10 +19,13 @@ Uma comunicação de dados completa deve ser composta por cinco partes?
 ### **Características da Comunicação de Dados**
 
 A comutação de pacotes sem conexão usa a comutação de pacotes para encapsular as informações do usuário em pacotes. Cada pacote possui um cabeçalho (_header_), que é
-usado para roteamento, controle de erros e controle de fluxo. A duração e o intervalo de cada pacote pode ser alterado. Portanto, a comutação de pacotes suporta múltiplas taxas. Nesse tipo de comutação de pacotes sem conexão, os pacotes ocupam recursos da rede somente quando eles são transmitidos. Os recursos de rede podem ser compartilhados por serviços.
+usado para roteamento, controle de erros e controle de fluxo. A duração e o intervalo de cada pacote pode ser alterado. Portanto, a comutação de pacotes suporta múltiplas taxas. Nesse tipo de comutação os pacotes ocupam recursos da rede somente quando eles são transmitidos. Os recursos de rede podem ser compartilhados por serviços.
+
+- **Modos de transmissão:**
+	- _simplex:_ Nesse modo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NzQ5NDczLDEyMTY5NDgxOCwtMTM4MD
-A4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAz
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTExNzEwMTExMjMsMTIxNjk0ODE4LC0xMz
+gwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQw
+MDMwMF19
 -->
