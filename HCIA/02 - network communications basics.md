@@ -75,14 +75,14 @@ e trailers é chamado de **encapsulamento**.
 
 Depois dos dados serem encapsulados e transmitidos pela rede, o dispositivo receptor apaga as informações adicionadas (_headers_) e determina como fazer o upload dos dados para as devidas camadas de aplicação pela pilha de protocolo baseado na informações dos _headers_. Esse processo é chamadao de **desencapsulamento**. As camadas dos dispositivos se comunicam entre si por meio de encapsulamento e desencapsulamento.
 
-- **A função da Camada Física:**
+### **A função da Camada Física:**
 A camada física define os processos elétricos e mecânicos e as funções para ativar, manter e e remover linhas quando dois sistemas estão conectados. Ela define os seguintes recursos:
 
-	- _Voltage Level_:  Distância máxima de transmissão, modo de conexão física e a razão da transmissão de dados.
+- _Voltage Level_:  Distância máxima de transmissão, modo de conexão física e a razão da transmissão de dados.
 
 Especifica o tipo da mídia, tipo da interface e o tipo de sinalização.
 
-- **A função da camada de dados:**
+### **A função da camada de dados:**
 É a primeira camada lógica dentro da Camada de Dados, ela executa o endereçamento físico no terminal para ajudar a rede de dispositivos a determinar se deve transferir a mensagem para cima ao longo da pilha de protocolos.
 
 A camada de dados se subdivide em duas:
@@ -94,9 +94,9 @@ A primeira sub-camada fica localizada entre a camada de rede e a MAC. Ela identi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDAxNzM5OCwtNTE0MTc0MzU2LDk5MD
-AwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5ODgs
-LTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMjE2OT
-Q4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2MTEx
-MjgsNDU5NDAwMzAwXX0=
+eyJoaXN0b3J5IjpbMjY4ODYwNDc0LC01MTQxNzQzNTYsOTkwMD
+AxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMxMDc0LDE0MDIyOTk4OCwt
+NjQyNzk3NDA3LC0yNTgxNzE2NywxODExODIwNTYxLDEyMTY5ND
+gxOCwtMTM4MDA4MzM3NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEy
+OCw0NTk0MDAzMDBdfQ==
 -->
