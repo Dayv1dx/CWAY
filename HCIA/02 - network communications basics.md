@@ -98,11 +98,14 @@ A primeira sub-camada fica localizada entre a camada de rede e a MAC. Ela identi
 A função dessa camada é encaminhar os pacotes entre as diferentes redes, desde a fonte até o destino final. A camada de dados garante que os pacotes podem ser encaminhados entre os dispositivos na mesma rede (_same link_), e a camada de rede garante que os pacotes podem ser encaminhados desde  a fonte até o destino final pela rede (_cross-link_). 
 
 Existem duas funções na camada de rede:
-- 
+
+- Forneçer endereços lógicos: Se os dados forem transmitidos através de redes (link cruzado), endereços lógicos são usados ​​para endereçamento.
+
+ - Roteamento: Encaminha pacotes de dados de uma rede para outra rede.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzAxMTY2MSwxMjIxMzc1NDE1LC01MT
+eyJoaXN0b3J5IjpbMTk1NzQ5MDM1NiwxMjIxMzc1NDE1LC01MT
 QxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMxMDc0
 LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxODExOD
 IwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMjQwNzQ4
