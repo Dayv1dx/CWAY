@@ -67,14 +67,14 @@ TCP (Protocolo de Controle de Transmissão) e IP (Protocolo de Internet). O TCP/
 ![enter image description here](https://embeddedgeeks.com/wp-content/uploads/2020/06/encap-1.png)
 
 Cada camada do TCP/IP permite que dados sejam transmitidos pela rede. Essas camadas usam unidades de dados de protocolo (PDUs) para trocar informações entre si para garantir que os dispositivos de rede possam se comunicar entre si. PDUs em diferentes camadas contêm informações diferentes. Portanto, PDUs em diferentes camadas têm nomes diferentes. Por exemplo, a PDU obtida após a camada de transporte adicionar
-o cabeçalho TCP para os dados da camada superior é chamado de segmento. O segmento de dados é
+o cabeçalho (_header_) TCP para os dados da camada superior é chamado de segmento. O segmento de dados é
 transmitido para a camada de rede, e o PDU obtido após a camada de rede
-adiciona o cabeçalho IP é chamado de pacote. O pacote de dados é transmitido para os dados camada de enlace e a PDU obtida após a camada de enlace de dados encapsular os dados cabeçalho é chamado de quadro, os quadros são convertidos em bits e transmitidos
+adiciona o _header_ IP é chamado de pacote. O pacote de dados é transmitido para os dados camada de enlace e a PDU obtida após a camada de enlace de dados encapsular os dados cabeçalho é chamado de quadro, os quadros são convertidos em bits e transmitidos
 mídia de rede. Este processo de passar dados pela pilha e adicionar cabeçalhos
 e trailers é chamado de encapsulamento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDI0NDE0NSwtNjk2NzMxMDc0LDE0MD
-IyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxODExODIwNTYx
-LDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMjQwNzQ4MSwtMT
-gzMDYxMTEyOCw0NTk0MDAzMDBdfQ==
+eyJoaXN0b3J5IjpbNDU3NDgzODg0LC02OTY3MzEwNzQsMTQwMj
+I5OTg4LC02NDI3OTc0MDcsLTI1ODE3MTY3LDE4MTE4MjA1NjEs
+MTIxNjk0ODE4LC0xMzgwMDgzMzc2LC0yMDAyNDA3NDgxLC0xOD
+MwNjExMTI4LDQ1OTQwMDMwMF19
 -->
