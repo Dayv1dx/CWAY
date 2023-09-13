@@ -62,10 +62,9 @@ Diferentes camadas do modelo TCP/IP correspondem a protocolos diferentes. O
 A pilha de protocolos TCP/IP é uma coleção de protocolos de comunicação de dados, incluindo muitos protocolos. O nome da pilha de protocolos deriva dos dois protocolos principais,
 TCP (Protocolo de Controle de Transmissão) e IP (Protocolo de Internet). O TCP/IP pilha de protocolos garante que os dispositivos de rede possam se comunicar entre si. Isto é um conjunto de regras que regem como as informações são transmitidas pela rede.
 
-2. **Encapsulamento e desencapsulamento de dados:**
+2. **Encapsulamento e desencapsulamento de dados no modelo TCP/IP:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzYwMzg2MCwtNjQyNzk3NDA3LC0yNT
-gxNzE2NywxODExODIwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3
-NiwtMjAwMjQwNzQ4MSwtMTgzMDYxMTEyOCw0NTk0MDAzMDBdfQ
-==
+eyJoaXN0b3J5IjpbMTQwMjI5OTg4LC02NDI3OTc0MDcsLTI1OD
+E3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMDgzMzc2
+LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQwMDMwMF19
 -->
