@@ -125,15 +125,17 @@ você a usar e gerenciar a rede TCP/IP:
 
 - FTP (File Transfer Protocol): Usado para transferir arquivos independentes, geralmente para sessões de usuário interativas.
 
-- HTTP (Hypertext Transfer Protocol):
+- HTTP (Hypertext Transfer Protocol): Usado para transferir os arquivos que compõem as páginas da World Wide Web.
+
+- TELNET : Transfere dados com informações de controle Telnet. Ele fornece um método padrão para interagir com dispositivos  terminais ou processos terminais, e suporta conexões terminal a terminal e processo a processo computação distribuída.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODgyMTEwOSwxNzE4MjQzMTc0LDIxMz
-E2NzU5MTIsLTIzMjc4MDI2MSwxMDI2ODI5NDkwLC0xNTU2MzUz
-MTQ4LDEyMjEzNzU0MTUsLTUxNDE3NDM1Niw5OTAwMDE3NTksND
-U3NDgzODg0LC02OTY3MzEwNzQsMTQwMjI5OTg4LC02NDI3OTc0
-MDcsLTI1ODE3MTY3LDE4MTE4MjA1NjEsMTIxNjk0ODE4LC0xMz
-gwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjExMTI4LDQ1OTQw
-MDMwMF19
+eyJoaXN0b3J5IjpbLTY4MjkyNDcwOSwxNzE4ODIxMTA5LDE3MT
+gyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgwMjYxLDEwMjY4Mjk0
+OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0MzU2LD
+k5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5
+ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMj
+E2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2
+MTExMjhdfQ==
 -->
