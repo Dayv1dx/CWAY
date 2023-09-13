@@ -45,11 +45,18 @@ Em 1984, a Organização Internacional de Normalização (ISO - _International O
 
 Além de ter as seguintes vantagens:
 
-- Simplifica a relação entre as operações de redes
-- 
-- Fornece uma compatibilidade _plug-and-play_ e interfaces padrão entre diferentes fornecedores
+- Simplifica a relação entre as operações de redes;
+
+- Fornece uma compatibilidade _plug-and-play_ e interfaces padrão entre diferentes fornecedores;
+
+- Permite que os fornecedores projetem redes interoperáveis entre dispositivos para promover a padronização;
+-  Impede a mudança de rede em uma área
+de afetar a rede em outra área. As redes em diferentes áreas são
+separados. Portanto, a rede em cada área pode ser atualizada rapidamente.
+Decompõe problemas complexos de rede em pequenos problemas simples, que são
+fácil de aprender e operar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ1MjMwMzksMTgxMTgyMDU2MSwxMj
-E2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2
-MTExMjgsNDU5NDAwMzAwXX0=
+eyJoaXN0b3J5IjpbMjAyMTE4NDA2LDE4MTE4MjA1NjEsMTIxNj
+k0ODE4LC0xMzgwMDgzMzc2LC0yMDAyNDA3NDgxLC0xODMwNjEx
+MTI4LDQ1OTQwMDMwMF19
 -->
