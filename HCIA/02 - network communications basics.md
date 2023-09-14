@@ -155,13 +155,15 @@ Esse endereço é chamado de endereço IP, o qual é um endereço lógico, ao in
 
 Ethernet é uma implementação de tecnologia LAN definida no IEEE St 802.3 e faz parte do padrão LAN/MAN.
 
+### **Princípios de funcinamento da Ethernet compartilhada**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk1MjMzNTEsLTEwNTg3Nzg0ODMsMT
-Y2NjU4NTMxMSwzMDE5NTU2MjQsLTY1NTE3NDYzMCwxMjgxMjMy
-MTU1LDE3MTg4MjExMDksMTcxODI0MzE3NCwyMTMxNjc1OTEyLC
-0yMzI3ODAyNjEsMTAyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMjIx
-Mzc1NDE1LC01MTQxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NC
-wtNjk2NzMxMDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgx
-NzE2N119
+eyJoaXN0b3J5IjpbMTMzNzE1MDQyNywtMTA1ODc3ODQ4MywxNj
+Y2NTg1MzExLDMwMTk1NTYyNCwtNjU1MTc0NjMwLDEyODEyMzIx
+NTUsMTcxODgyMTEwOSwxNzE4MjQzMTc0LDIxMzE2NzU5MTIsLT
+IzMjc4MDI2MSwxMDI2ODI5NDkwLC0xNTU2MzUzMTQ4LDEyMjEz
+NzU0MTUsLTUxNDE3NDM1Niw5OTAwMDE3NTksNDU3NDgzODg0LC
+02OTY3MzEwNzQsMTQwMjI5OTg4LC02NDI3OTc0MDcsLTI1ODE3
+MTY3XX0=
 -->
