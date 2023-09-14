@@ -152,12 +152,14 @@ O endereço de rede identifica, de forma única, um dispositivo na camada de red
 Esse endereço é chamado de endereço IP, o qual é um endereço lógico, ao invés de um endereço de hardware, utilizado para comunicação entre dois dispositivos em redes diferentes. É composto por quatro bytes e normamente representado na notação decimal separado por ponto, exemplo 10.8.2.48.
 
 ## **Visão Geral da Ethernet**
+
+Ethernet é uma implementação de tecnologia LAN definida no IEEE St 802.3 e faz parte do padrão LAN/MAN.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjU4NTMxMSwzMDE5NTU2MjQsLTY1NT
-E3NDYzMCwxMjgxMjMyMTU1LDE3MTg4MjExMDksMTcxODI0MzE3
-NCwyMTMxNjc1OTEyLC0yMzI3ODAyNjEsMTAyNjgyOTQ5MCwtMT
-U1NjM1MzE0OCwxMjIxMzc1NDE1LC01MTQxNzQzNTYsOTkwMDAx
-NzU5LDQ1NzQ4Mzg4NCwtNjk2NzMxMDc0LDE0MDIyOTk4OCwtNj
-QyNzk3NDA3LC0yNTgxNzE2NywxODExODIwNTYxLDEyMTY5NDgx
-OF19
+eyJoaXN0b3J5IjpbLTEwNTg3Nzg0ODMsMTY2NjU4NTMxMSwzMD
+E5NTU2MjQsLTY1NTE3NDYzMCwxMjgxMjMyMTU1LDE3MTg4MjEx
+MDksMTcxODI0MzE3NCwyMTMxNjc1OTEyLC0yMzI3ODAyNjEsMT
+AyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMjIxMzc1NDE1LC01MTQx
+NzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMxMDc0LD
+E0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxODExODIw
+NTYxXX0=
 -->
