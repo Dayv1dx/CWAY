@@ -149,13 +149,13 @@ O endereço de rede identifica, de forma única, um dispositivo na camada de red
 |:--:|:--:|
 | 10. |8.2.48 |
 
-Esse endereço é chamado de endeeço IP, o qaul
+Esse endereço é chamado de endereço IP, o qual é um endereço lógico 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTM0NTQxOSwxMjgxMjMyMTU1LDE3MT
-g4MjExMDksMTcxODI0MzE3NCwyMTMxNjc1OTEyLC0yMzI3ODAy
-NjEsMTAyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMjIxMzc1NDE1LC
-01MTQxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMx
-MDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxOD
-ExODIwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMjQw
-NzQ4MV19
+eyJoaXN0b3J5IjpbLTE1MDk0NTczNzQsMTI4MTIzMjE1NSwxNz
+E4ODIxMTA5LDE3MTgyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgw
+MjYxLDEwMjY4Mjk0OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNS
+wtNTE0MTc0MzU2LDk5MDAwMTc1OSw0NTc0ODM4ODQsLTY5Njcz
+MTA3NCwxNDAyMjk5ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcsMT
+gxMTgyMDU2MSwxMjE2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0
+MDc0ODFdfQ==
 -->
