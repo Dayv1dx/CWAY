@@ -143,13 +143,18 @@ informações entre o console de gerenciamento de rede e a rede dispositivos (co
 
 ### **Endereço da Camada de Rede**
 
-O endereço de rede identifica, de forma única, um dispositivo na 
+O endereço de rede identifica, de forma única, um dispositivo na camada de rede. Ele consiste em duas partes:
+
+| Network ID | Host ID |
+|;-;-|--|
+| 10. |8.2.48 |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NzU1OTc2LDEyODEyMzIxNTUsMTcxOD
-gyMTEwOSwxNzE4MjQzMTc0LDIxMzE2NzU5MTIsLTIzMjc4MDI2
-MSwxMDI2ODI5NDkwLC0xNTU2MzUzMTQ4LDEyMjEzNzU0MTUsLT
-UxNDE3NDM1Niw5OTAwMDE3NTksNDU3NDgzODg0LC02OTY3MzEw
-NzQsMTQwMjI5OTg4LC02NDI3OTc0MDcsLTI1ODE3MTY3LDE4MT
-E4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMDgzMzc2LC0yMDAyNDA3
-NDgxXX0=
+eyJoaXN0b3J5IjpbMTAzMTM2NzEsMTI4MTIzMjE1NSwxNzE4OD
+IxMTA5LDE3MTgyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgwMjYx
+LDEwMjY4Mjk0OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNT
+E0MTc0MzU2LDk5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3
+NCwxNDAyMjk5ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMT
+gyMDU2MSwxMjE2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0
+ODFdfQ==
 -->
