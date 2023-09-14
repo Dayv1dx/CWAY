@@ -153,13 +153,13 @@ Esse endereço é chamado de endereço IP, o qual é um endereço lógico, ao in
 
 ## **Visão Geral da Ethernet**
 
-Ethernet é uma implementação de tecnologia LAN definida no IEEE St 802.3 e faz parte do padrão LAN/MAN.
+Ethernet é uma implementação de tecnologia LAN definida no IEEE St 802.3 e faz parte do padrão LAN/MAN. O protocolo Ethernet é um conjunto de protocolos LAN de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg3Nzg0ODMsMTY2NjU4NTMxMSwzMD
-E5NTU2MjQsLTY1NTE3NDYzMCwxMjgxMjMyMTU1LDE3MTg4MjEx
-MDksMTcxODI0MzE3NCwyMTMxNjc1OTEyLC0yMzI3ODAyNjEsMT
-AyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMjIxMzc1NDE1LC01MTQx
-NzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMxMDc0LD
-E0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxODExODIw
-NTYxXX0=
+eyJoaXN0b3J5IjpbMjQ3OTQzNjQ2LC0xMDU4Nzc4NDgzLDE2Nj
+Y1ODUzMTEsMzAxOTU1NjI0LC02NTUxNzQ2MzAsMTI4MTIzMjE1
+NSwxNzE4ODIxMTA5LDE3MTgyNDMxNzQsMjEzMTY3NTkxMiwtMj
+MyNzgwMjYxLDEwMjY4Mjk0OTAsLTE1NTYzNTMxNDgsMTIyMTM3
+NTQxNSwtNTE0MTc0MzU2LDk5MDAwMTc1OSw0NTc0ODM4ODQsLT
+Y5NjczMTA3NCwxNDAyMjk5ODgsLTY0Mjc5NzQwNywtMjU4MTcx
+NjddfQ==
 -->
