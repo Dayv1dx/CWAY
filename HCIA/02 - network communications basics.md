@@ -149,13 +149,13 @@ O endereço de rede identifica, de forma única, um dispositivo na camada de red
 |:--:|:--:|
 | 10. |8.2.48 |
 
-Esse endereço é chamado de endereço IP, o qual é um endereço lógico, ao invés de um endereço de hardware, utilizado para comunicação entre dois dispositivos em redes diferentes. É composto por quatro bytes e normamente representado na notação decimal separado por ponto, example 10.8.2.48.
+Esse endereço é chamado de endereço IP, o qual é um endereço lógico, ao invés de um endereço de hardware, utilizado para comunicação entre dois dispositivos em redes diferentes. É composto por quatro bytes e normamente representado na notação decimal separado por ponto, exampl 10.8.2.48.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTE3NDYzMCwxMjgxMjMyMTU1LDE3MT
-g4MjExMDksMTcxODI0MzE3NCwyMTMxNjc1OTEyLC0yMzI3ODAy
-NjEsMTAyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMjIxMzc1NDE1LC
-01MTQxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMx
-MDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxOD
-ExODIwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMjQw
-NzQ4MV19
+eyJoaXN0b3J5IjpbLTE0OTk4MjczMTUsLTY1NTE3NDYzMCwxMj
+gxMjMyMTU1LDE3MTg4MjExMDksMTcxODI0MzE3NCwyMTMxNjc1
+OTEyLC0yMzI3ODAyNjEsMTAyNjgyOTQ5MCwtMTU1NjM1MzE0OC
+wxMjIxMzc1NDE1LC01MTQxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4
+Mzg4NCwtNjk2NzMxMDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC
+0yNTgxNzE2NywxODExODIwNTYxLDEyMTY5NDgxOCwtMTM4MDA4
+MzM3Nl19
 -->
