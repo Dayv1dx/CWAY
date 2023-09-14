@@ -140,12 +140,16 @@ você a usar e gerenciar a rede TCP/IP:
 informações entre o console de gerenciamento de rede e a rede dispositivos (como roteadores, pontes e servidores).
 
 - Radius (Remote Authentication Dial In User Service): Autenticação remota protocolo para acesso dial-up, que implementa autenticação, autorização, e contabilização de usuários de acesso.
+
+### **Endereço da Camada de Rede**
+
+O endereço de rede identifica, de forma única, um dispositivo na 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTIzMjE1NSwxNzE4ODIxMTA5LDE3MT
-gyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgwMjYxLDEwMjY4Mjk0
-OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNTE0MTc0MzU2LD
-k5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3NCwxNDAyMjk5
-ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMTgyMDU2MSwxMj
-E2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0ODEsLTE4MzA2
-MTExMjhdfQ==
+eyJoaXN0b3J5IjpbMzQ3NzU1OTc2LDEyODEyMzIxNTUsMTcxOD
+gyMTEwOSwxNzE4MjQzMTc0LDIxMzE2NzU5MTIsLTIzMjc4MDI2
+MSwxMDI2ODI5NDkwLC0xNTU2MzUzMTQ4LDEyMjEzNzU0MTUsLT
+UxNDE3NDM1Niw5OTAwMDE3NTksNDU3NDgzODg0LC02OTY3MzEw
+NzQsMTQwMjI5OTg4LC02NDI3OTc0MDcsLTI1ODE3MTY3LDE4MT
+E4MjA1NjEsMTIxNjk0ODE4LC0xMzgwMDgzMzc2LC0yMDAyNDA3
+NDgxXX0=
 -->
