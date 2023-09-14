@@ -149,9 +149,9 @@ O endereço de rede identifica, de forma única, um dispositivo na camada de red
 |:--:|:--:|
 | 10. |8.2.48 |
 
-Esse endereço é chamado de endereço IP, o qual é um endereço lógico 
+Esse endereço é chamado de endereço IP, o qual é um endereço lógico, ao invés de um endereço de hardware, utilizado para comunicação entre dois dispositivos em redes diferentes. É composto por quatro bytes e normamente representado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk0NTczNzQsMTI4MTIzMjE1NSwxNz
+eyJoaXN0b3J5IjpbLTE4Nzk3Mjg1MTQsMTI4MTIzMjE1NSwxNz
 E4ODIxMTA5LDE3MTgyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgw
 MjYxLDEwMjY4Mjk0OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNS
 wtNTE0MTc0MzU2LDk5MDAwMTc1OSw0NTc0ODM4ODQsLTY5Njcz
