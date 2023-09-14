@@ -146,15 +146,16 @@ informações entre o console de gerenciamento de rede e a rede dispositivos (co
 O endereço de rede identifica, de forma única, um dispositivo na camada de rede. Ele consiste em duas partes:
 
 | Network ID | Host ID |
-|;-;-|--|
+|:--:|:--:|
 | 10. |8.2.48 |
 
+Esse endereço é chamado de endeeço IP, o qaul
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTM2NzEsMTI4MTIzMjE1NSwxNzE4OD
-IxMTA5LDE3MTgyNDMxNzQsMjEzMTY3NTkxMiwtMjMyNzgwMjYx
-LDEwMjY4Mjk0OTAsLTE1NTYzNTMxNDgsMTIyMTM3NTQxNSwtNT
-E0MTc0MzU2LDk5MDAwMTc1OSw0NTc0ODM4ODQsLTY5NjczMTA3
-NCwxNDAyMjk5ODgsLTY0Mjc5NzQwNywtMjU4MTcxNjcsMTgxMT
-gyMDU2MSwxMjE2OTQ4MTgsLTEzODAwODMzNzYsLTIwMDI0MDc0
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTI1MTM0NTQxOSwxMjgxMjMyMTU1LDE3MT
+g4MjExMDksMTcxODI0MzE3NCwyMTMxNjc1OTEyLC0yMzI3ODAy
+NjEsMTAyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMjIxMzc1NDE1LC
+01MTQxNzQzNTYsOTkwMDAxNzU5LDQ1NzQ4Mzg4NCwtNjk2NzMx
+MDc0LDE0MDIyOTk4OCwtNjQyNzk3NDA3LC0yNTgxNzE2NywxOD
+ExODIwNTYxLDEyMTY5NDgxOCwtMTM4MDA4MzM3NiwtMjAwMjQw
+NzQ4MV19
 -->
