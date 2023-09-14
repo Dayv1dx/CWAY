@@ -154,8 +154,10 @@ Esse endereço é chamado de endereço IP, o qual é um endereço lógico, ao in
 ## **Visão Geral da Ethernet**
 
 Ethernet é uma implementação de tecnologia LAN definida no IEEE St 802.3 e faz parte do padrão LAN/MAN.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg3Nzg0ODMsLTEwNTg3Nzg0ODMsMT
+eyJoaXN0b3J5IjpbLTEyMTk1MjMzNTEsLTEwNTg3Nzg0ODMsMT
 Y2NjU4NTMxMSwzMDE5NTU2MjQsLTY1NTE3NDYzMCwxMjgxMjMy
 MTU1LDE3MTg4MjExMDksMTcxODI0MzE3NCwyMTMxNjc1OTEyLC
 0yMzI3ODAyNjEsMTAyNjgyOTQ5MCwtMTU1NjM1MzE0OCwxMjIx
