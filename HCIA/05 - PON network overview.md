@@ -4,11 +4,16 @@ POL é um novo tipo de solução de rede LAN baseada na tecnologia PON. Baseia-s
 
 A tecnologia de telecomunicações FTTx é um termo genérico para designar qualquer acesso de banda larga sobre fibra óptica que substitua total ou parcialmente o cobre do laço local. Ela engloba a construção de cenários FTTH, FTTB, FTTC e FTTO, além de prover um acesso completo com uma grande largura de banda.
 
+<img src="images/05 - gpon1.png"/>
+
+
 # **Introdução aos dispositivos PON**
 
 ## OLT
 
 Optical Line Terminal (OLT) é um terminal que fornece uma interface com um swtich local no "lado" da rede e é conectado a uma ONU no "lado" do usuário. As funções típicas de uma OLT num sistema GPON são: PON core functions, cross-conection functions e service function. ODN é a conexão física entre a OLT e a ONU.
+
+<img src="images/05 - gpon2.png"/>
 
 - TC, Transmission Convergence
 - OAM, Operationsm, Administration and Mainenance
