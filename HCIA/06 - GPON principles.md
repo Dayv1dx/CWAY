@@ -28,16 +28,16 @@ O GPON implementa uma transmissão bidirecional em uma única fibra e esse siste
 
 ### **GPON Downstream**
 
-<img src="images/06 - gpon down.png"/>
+<img src="images/06 - gpon down.png" width="75%"/>
 
 ### **GPON Upstream**
 
-<img src="images/06 - gpon up.png"/>
+<img src="images/06 - gpon up.png" width="75%"/>
 
 
 ## **Modos de multiplexação de dados no GPON**
 
-<img src="images/06 - gpon service map.png"/>
+<img src="images/06 - gpon service map.png" width="75%"/>
 
 O quadro do modo de encapsulamento GPON (GEM) é a menor unidade portadora de serviço na tecnologia GPON e é a estrutura de encapsulamento mais básica. Todos os serviços são encapsulados em frames GEM e transmitidos em linhas GPON. Os serviços são identificados pelas portas GEM. Cada porta GEM é identificada por um ID de porta exclusivo, que é alocado globalmente pela OLT. Ou seja, cada ONU/ONT conectada à OLT não pode utilizar uma porta GEM com o mesmo ID de porta. Uma porta GEM identifica o canal virtual de serviço entre a OLT e a ONU/ONT, ou seja, o canal que transporta o fluxo de serviço. A porta GEM é semelhante ao VPI/VCI na conexão virtual ATM.
 
@@ -66,7 +66,7 @@ DBA (Dynamic Bandwith Assigment) é um jeito de alocar a largura de banda em mic
 
 A tecnologia broadcast é usada no _downstream_ do GPON, como garantir que o dado de uma ONU não irá para outra? Usano um algoritmo de encriptação chamado _Advanced Encryption System_ (AES)
 
-<img src="images/06 - aes.png"/>
+<img src="images/06 - aes.png" width="75%"/>
 
 ## **Gerenciamento e modos de provisionamento do sistema GPON**
 
@@ -85,17 +85,17 @@ O sistema GPON gerencia a ONU através do canal de gerenciamento OMCI entre a OL
 
 - SNMP: _Simple Network Management Protocol_
 - 
-<img src="images/06 - omci_1.png"/>
+<img src="images/06 - omci_1.png" width="75%"/>
 
-<img src="images/06 - omci_2.png"/>
+<img src="images/06 - omci_2.png" width="75%"/>
 
-<img src="images/06 - omci_3.png"/>
+<img src="images/06 - omci_3.png" width="75%"/>
 
-<img src="images/06 - omci_4.png"/>
+<img src="images/06 - omci_4.png" width="75%"/>
 
 ## **GPON Network Protection**
 
-<img src="images/06 - typb-s.png"/>
+<img src="images/06 - typb-s.png" width="75%"/>
 
 - Vantagens: A rede é simples, o gerenciamento OLT/ONU é simples e o provisionamento de serviços é simples.
 
@@ -111,7 +111,7 @@ O sistema GPON gerencia a ONU através do canal de gerenciamento OMCI entre a OL
 
 - Cenário de aplicação: Esta solução é utilizada para proteger serviços importantes do usuário, especialmente aqueles que exigem recuperação remota de desastres. Ele pode ser usado para proteger serviços de acesso a linhas privadas empresariais e serviços de acesso a linhas privadas de estações base.
 
-<img src="images/06 - typc-s.png"/>
+<img src="images/06 - typc-s.png" width="75%"/>
 
 - Vantagem: A rede é simples e o gerenciamento OLT/ONU é simples.
 
@@ -119,7 +119,7 @@ O sistema GPON gerencia a ONU através do canal de gerenciamento OMCI entre a OL
 
 - Cenário de aplicação: Serviços importantes de usuários são protegidos, incluindo serviços de acesso a linhas privadas empresariais e serviços de acesso a linhas privadas de estação base
 
-<img src="images/06 - typc-d.png"/>
+<img src="images/06 - typc-d.png" width="75%"/>
 
 No cenário de rede dual-homing, as duas linhas PON entre a ONU e os dois OLTs estão no estado ativo/standby e não podem encaminhar pacotes ao mesmo tempo. 
 
